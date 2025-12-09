@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there <img src="https://media.tenor.com/FEIo6vWVIOMAAAAi/hi.gif" width="28" />
 
-<!--
-**ChillWoW/ChillWoW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eeka, a software engineer from Finland 🇫🇮
 
-Here are some ideas to get you started:
+I work on both frontend and backend stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+
+**Frontend**
+- React, Tailwind, TypeScript
+- Custom UI components ([Velra](https://github.com/velradev/velra))
+
+**Backend**
+- Node.js (Fastify)
+- Python
+- PostgreSQL
