@@ -2,15 +2,16 @@
 
 I'm Eeka, a software engineer from Finland 🇫🇮
 
-I work on both frontend and backend stuff
+Fullstack developer focused on developer tools and clean architecture.
 
 ## Tools
 
 **Frontend**
 - React, Tailwind, TypeScript
-- Custom UI components ([Velra](https://github.com/velradev/velra))
+- Shadcn or custom components (depends on the project)
 
 **Backend**
-- Node.js (Fastify)
+- Bun + TypeScript (Primary)
 - Python
 - PostgreSQL
+- Frameworks are chosen per project
