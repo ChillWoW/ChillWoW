@@ -8,7 +8,7 @@ Fullstack developer focused on developer tools and clean architecture.
 
 **Frontend**
 - React, Tailwind, TypeScript
-- Shadcn or custom components (depends on the project)
+- Custom-designed components built on Base UI
 
 **Backend**
 - Bun + TypeScript (Primary)
